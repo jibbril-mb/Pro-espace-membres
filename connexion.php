@@ -51,9 +51,12 @@ require_once 'header.php';
     <style>
         h1{
            
-            size: 27px;
+            font-size: 55px;
             color: #003366;
             opacity: 0.8;
+           text-shadow: 2px 2px 8px #24a6d1;
+           font-weight: normal; 
+           font-style: italic;
         }
     </style>
 
